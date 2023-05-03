@@ -1,5 +1,5 @@
 {
-  "name": "dev",
+  "name": "algoPractice",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,6 +9,9 @@
   "jest": {
     "testEnvironment": "node"
   },
-  "author": "stephen grider",
-  "license": "ISC"
+  "author": "jhan-dev",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.5.0"
+  }
 }
